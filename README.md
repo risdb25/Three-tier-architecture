@@ -5,6 +5,7 @@ This project demonstrates my skills in:
 * object-oriented programming
 * developing for distributed systems
 * GUI applications
+* linking a database (Microsoft SQL Server) to a desktop application
 
 Prototype of a distributed system using the three-tier architecure. 
 
