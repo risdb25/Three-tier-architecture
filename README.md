@@ -2,7 +2,7 @@
 
 Prototype of a distributed system using the three-tier architecure. 
 
-This means the system has been separated into a top/presentation layer; middle/business logic layer; and bottom/database layer.
+This means the system has been separated into a top/presentation layer; middle/business logic layer; and bottom/data layer.
 
 This code demonstrates my skills in C#, object-oriented programming, and developing for distributed systems.
 
