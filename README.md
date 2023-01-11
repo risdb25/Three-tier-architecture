@@ -4,7 +4,7 @@ This project demonstrates my skills in:
 * C#
 * object-oriented programming
 * developing for distributed systems
-* GUI applications
+* creating GUI applications
 * linking a database (Microsoft SQL Server) to a desktop application
 
 Prototype of a distributed system using the three-tier architecure. 
